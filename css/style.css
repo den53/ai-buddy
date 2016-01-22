@@ -1,0 +1,26 @@
+/* set a max-width for horizontal fluid layout and make it centered */
+.container-fluid {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 950px; /* or 950px */
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #747704;
+  font-weight: 300;
+}
+
+.text-muted {
+  color: #BCBBBB;
+}
+.text-thin {
+  font-weight: 100;
+}
+.title-super {
+  font-size: 60px;
+}
+.title-logo {
+  margin-top:25px;
+
+}
