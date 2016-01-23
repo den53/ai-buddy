@@ -1,0 +1,7 @@
+---
+  applications:
+    - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+      host: aibuddy
+      name: aibuddy
+      memory: 64MB
+      stack: cflinuxfs2
