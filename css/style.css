@@ -24,3 +24,7 @@ body {
   margin-top:25px;
 
 }
+
+@media screen and (max-width: 415px) {
+  body{ color: #F79420;}  
+}
